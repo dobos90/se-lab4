@@ -1,0 +1,3 @@
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE # ha első lövés mindkét tárat kiürítette volna, az eredményy FAIL lenne
